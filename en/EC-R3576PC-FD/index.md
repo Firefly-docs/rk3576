@@ -1,6 +1,2 @@
-# 
-
-version：1.0
-
-## social
-
+# EC-R3576PC-FD
+- [Product Introduction](started_host.md)
